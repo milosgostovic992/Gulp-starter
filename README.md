@@ -41,22 +41,21 @@ browsersync ----> npm i browsersync
 Having error on gulp saas:
 
 1st step:
-Uninstall node-sass:
-npm: npm uninstall node-sass
+Uninstall node-sass: 
+npm uninstall node-sass
 
 2nd step:
 Uninstall sass-loader:
-npm: npm uninstall sass-loader
+npm uninstall sass-loader
 
 3rd step:
-npm: npm install sass -dev
+npm install sass -dev
 
 --------------------------------------------------------- UPDATES ---------------------------------------------------------
 
 Update 1.1
 
 - Font build path changed to assets/fonts 
-
 
 --------------------
 
