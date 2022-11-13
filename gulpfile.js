@@ -47,7 +47,7 @@ gulp.task("assets", () => {
 // copy font files to dist
 gulp.task("fonts", () => {
   return gulp
-    .src("src/fonts/*.{ttf,woff,woff2,eof}")
+    .src("src/assets/fonts/*.{ttf,woff,woff2,eof}")
     .pipe(gulp.dest("dist/fonts"));
 });
 
