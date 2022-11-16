@@ -60,6 +60,10 @@ npm uninstall sass-loader
 3rd step:
 npm install sass -dev
 
+Iconfont 
+
+TODO //
+
 --------------------------------------------------------- UPDATES ---------------------------------------------------------
 
 Update 1.1
@@ -81,3 +85,7 @@ Update 1.3
 - Readme file updated
 
 --------------------
+
+Update 1.4 
+
+- Added dist folder with starting screen template
